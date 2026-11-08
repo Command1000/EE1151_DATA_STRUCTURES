@@ -27,12 +27,5 @@ while(!v.empty()){
 	v.pop_back();
 }
 cout<<ct;
-}
-
-
-
-
-
-
-	return 0;
+return 0;
 }
